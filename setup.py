@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 __author__ = 'Gu Zhengxiong'
-__version__ = '0.2.1'
+__version__ = '0.2.2'
 
 PROGRAM_NAME = 'TMgr'
 PACKAGE_NAME = 'tmgr'

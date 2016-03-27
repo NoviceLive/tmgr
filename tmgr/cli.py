@@ -22,13 +22,13 @@ import argparse
 
 
 PROGRAM_NAME = 'TMgr'
-__version__ = '0.2.1'
+__version__ = '0.2.2'
 
 
 def parse_args():
     """Parse the commandline arguments."""
     parser = argparse.ArgumentParser(
-        description='Templated Touch',
+        description='Template Manager',
         epilog='the default is using extension templates.')
     parser.add_argument(
         'names', metavar='NAME', nargs='+',
