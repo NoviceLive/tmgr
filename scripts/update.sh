@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 
-REMOTE='https://github.com/LibreCrops/templates.git'
+REMOTE='https://github.com/LibreCrops/common-templates.git'
 DEST="${HOME}/.tmgr"
 
 
